@@ -59,11 +59,5 @@ Editar
 💡 Como Executar
 Instale o Solar2D em seu computador ou dispositivo.
 
-Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/usuario/projeto-zoonoses.git
-Abra o projeto na engine e inicie a simulação.
+Clone o repositório e abra o projeto na engine e inicie a simulação.
 
