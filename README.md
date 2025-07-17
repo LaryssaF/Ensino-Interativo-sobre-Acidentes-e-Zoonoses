@@ -1,53 +1,69 @@
-# Projeto: Ensino Interativo sobre Acidentes e Zoonoses  
+# Projeto: Ensino Interativo sobre Acidentes e Zoonoses
+Este projeto foi desenvolvido em Lua utilizando a engine Solar2D com o objetivo de criar uma aplicação interativa e educativa voltada para alunos do Ensino Médio. A proposta é abordar, de forma acessível e visual, temas importantes como zoonoses e acidentes com animais peçonhentos, promovendo conscientização, prevenção e aprendizado ativo.
 
-Este projeto utiliza **Lua** e a engine **Solar2D** para criar uma aplicação interativa voltada ao ensino de alunos do Ensino Médio sobre acidentes envolvendo animais peçonhentos e zoonoses. O objetivo é promover a conscientização e o aprendizado por meio de uma abordagem visual e prática.
+📚 Descrição Geral
+A aplicação combina conteúdo didático com recursos interativos para facilitar a compreensão dos alunos. Os principais temas abordados são:
 
----
+Zoonoses: Definição, exemplos comuns (como raiva e leptospirose) e formas de prevenção.
 
-## 📚 **Descrição do Projeto**  
-A aplicação visa ensinar de forma didática:  
-- **Zoonoses**: Conceitos básicos, exemplos comuns (como raiva e leptospirose) e medidas preventivas.  
-- **Acidentes com Animais Peçonhentos**: Informações sobre animais perigosos, cuidados necessários e orientações de primeiros socorros.  
+Animais Peçonhentos: Identificação, perigos, medidas de proteção e primeiros socorros em caso de acidentes.
 
-Os alunos poderão explorar conteúdos interativos que combinam informações claras com recursos gráficos envolventes.
+O conteúdo é apresentado de forma dinâmica, com elementos gráficos e interações que tornam o aprendizado mais envolvente e eficaz.
 
----
+🚀 Funcionalidades Principais
+🎓 Conteúdo Interativo: Explicações claras e acessíveis sobre os temas abordados.
 
-## 🚀 **Funcionalidades Principais**  
-- **Explicações Interativas**: Apresentação de conteúdo sobre zoonoses e animais peçonhentos.  
-- **Gráficos e Animações**: Uso de elementos visuais simples e atrativos para facilitar o aprendizado.  
-- **Mini-atividades Educativas**:  
-  - Simulação de situações reais.  
-  - Quiz para testar conhecimentos adquiridos.  
-  - Mapas interativos destacando áreas de risco.  
-- **Recomendações Práticas**: Informações sobre como prevenir acidentes e lidar com eles.  
+🧩 Mini-atividades Educativas:
 
----
+Simulações de situações reais.
 
-## 🛠️ **Tecnologias Utilizadas**  
-- **Linguagem**: Lua  
-- **Engine**: Solar2D  
-- **Plataforma**: Compatível com dispositivos móveis e desktop.  
+Quiz para testar os conhecimentos adquiridos.
 
----
+Mapas interativos com identificação de áreas de risco.
 
-## 🎯 **Objetivo Educacional**  
-Este projeto busca:  
-1. Conscientizar sobre a importância da prevenção de zoonoses e acidentes.  
-2. Ajudar os alunos a reconhecerem situações de risco.  
-3. Incentivar o aprendizado por meio de interatividade e simulações práticas.  
+🎨 Animações e Gráficos Didáticos: Elementos visuais que reforçam o conteúdo de forma intuitiva.
 
----
+🛡️ Recomendações Práticas: Dicas úteis de prevenção e primeiros socorros.
 
-## 📂 **Estrutura do Projeto**  
-- **/src**: Código fonte em Lua.  
-- **/assets**: Recursos visuais e de áudio.  
-- **/docs**: Documentação complementar.  
+🛠️ Tecnologias Utilizadas
+Linguagem: Lua
 
----
+Engine: Solar2D
 
-## 💡 **Como Usar**  
-1. Instale o Solar2D no seu computador ou dispositivo móvel.  
-2. Clone este repositório:  
-   ```bash
-   git clone https://github.com/usuario/projeto-zoonoses.git
+Plataforma: Compatível com dispositivos móveis e desktop
+
+🎯 Objetivos Educacionais
+Este projeto busca:
+
+Promover a conscientização sobre zoonoses e acidentes com animais peçonhentos.
+
+Ajudar estudantes a identificar riscos no dia a dia e saber como agir com segurança.
+
+Estimular o aprendizado ativo por meio de interações, desafios e simulações.
+
+Além do conteúdo técnico, o desenvolvimento deste projeto reforça habilidades como:
+
+Comunicação clara de temas complexos;
+
+Pensamento criativo na criação de atividades educativas;
+
+Empatia e responsabilidade social por meio de soluções que impactam positivamente o aprendizado.
+
+📂 Estrutura do Projeto
+bash
+Copiar
+Editar
+/src      → Código-fonte em Lua  
+/assets   → Recursos visuais e sonoros  
+/docs     → Documentação complementar
+💡 Como Executar
+Instale o Solar2D em seu computador ou dispositivo.
+
+Clone o repositório:
+
+bash
+Copiar
+Editar
+git clone https://github.com/usuario/projeto-zoonoses.git
+Abra o projeto na engine e inicie a simulação.
+
